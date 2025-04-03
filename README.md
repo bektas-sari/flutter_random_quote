@@ -1,10 +1,7 @@
 # 💬 Flutter Random Quote App
 
-A simple Flutter application that displays a random motivational quote every time you press the button. Built for beginners who want to practice working with state, lists, and randomness in Flutter.
-
-## 📸 Screenshot
-
-*Coming Soon*
+A simple Flutter application that displays a random motivational quote every time you press the button. 
+Built for beginners who want to practice working with state, lists, and randomness in Flutter.
 
 ## ✨ Features
 
@@ -30,7 +27,7 @@ lib/
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/flutter_random_quote.git
+git clone https://github.com/bektas-sari/flutter_random_quote.git
 cd flutter_random_quote
 flutter pub get
 flutter run
@@ -51,7 +48,7 @@ flutter run
 
 ## 👨‍💻 Author
 
-**[@your-username](https://github.com/your-username)**
+**[@your-username](https://github.com/bektas-sari)**
 
 This app is part of my Flutter learning journey.
 
