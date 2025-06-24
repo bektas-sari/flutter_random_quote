@@ -1,4 +1,4 @@
-# 💬 Flutter Random Quote App
+# 💬 Flutter Random Quote App (Flutter APP)
 
 A simple Flutter application that displays a random motivational quote every time you press the button. 
 Built for beginners who want to practice working with state, lists, and randomness in Flutter.
